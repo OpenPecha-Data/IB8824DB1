@@ -1,0 +1,9 @@
+id: 7c45baadc08745bda9c6ec0a32bc94a0
+annotation_type: index
+revision: '00001'
+annotations:
+  bcb27589184048bca7cabe2b45217667:
+    base: fBC94.txt
+    span:
+      start: 0
+      end: 16050

@@ -1,0 +1,23 @@
+id: IB8824DB1
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T18:45:58.273518'
+last_modified: '2022-05-27T18:45:58.273531'
+parser: null
+source_metadata:
+  title: 'MSV 4,00: Kṣudrakavastu'
+  language: bo
+  base:
+    fBC94:
+      title: Kṣudrakavastu
+      base_file: fBC94.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
